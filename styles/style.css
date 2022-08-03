@@ -3,7 +3,7 @@
   font-size: 16px;
   font-weight: 300;
   line-height: 1.2;
-  max-width: 998px;
+  max-width: 769px;
   margin: 0 auto;
   padding: 0;
   overflow: hidden;
@@ -266,7 +266,7 @@
 }
 
 #es-maybelline.es-maybelline .es-features__single {
-  width: 307px;
+  width: 254px;
 }
 
 #es-maybelline.es-maybelline .es-features__img {
@@ -432,7 +432,7 @@
 }
 
 #es-maybelline.es-maybelline .es-colors__single {
-  width: 154px;
+  width: 126px;
 }
 
 #es-maybelline.es-maybelline .es-colors__img {
@@ -750,7 +750,7 @@
 }
 
 #es-maybelline.es-maybelline .es-cross__single {
-  max-width: 300px;
+  max-width: 200px;
   display: -webkit-box;
   display: -ms-flexbox;
   display: flex;
@@ -772,6 +772,7 @@
 
 #es-maybelline.es-maybelline .es-cross__img {
   max-width: 100%;
+  max-height: 256px;
   display: block;
   margin: 0 auto;
 }
